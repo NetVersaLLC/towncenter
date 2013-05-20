@@ -9,7 +9,7 @@
 					<div class="span8">
 						<div class="pull-right">
 							<div class="sign_div">
-								<a href="http://signup.towncenter.com/users/sign_up">SIGN UP</a>|<a href="http://sync.towncenter.com/users/sign_in">SIGN IN</a>|<a href="/contact.php">CONTACT US</a>
+								<a href="http://sync.towncenter.com/users/sign_up?package_id=1">SIGN UP</a>|<a href="http://sync.towncenter.com/users/sign_in">SIGN IN</a>|<a href="/contact.php">CONTACT US</a>
 							</div>
 							<div class="clearfix"></div>
 							<span class="nav_menu_r"></span>
