@@ -88,34 +88,7 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
 	</head>
 
 	<body>
-		<header>
-			<div class="container">
-				<div class="row-fluid span12">
-					<div class="span4">
-						<div class="logo_div">
-							<a href="http://www.towncenter.com"><img src="images/logo.png" alt="logo"/></a>
-						</div>
-					</div>
-					<div class="span8">
-						<div class="pull-right">
-							<div class="sign_div">
-								<a href="http://signup.towncenter.com/users/sign_up">SIGN UP</a>|<a href="http://sync.towncenter.com/users/sign_in">SIGN IN</a>|<a href="/contact.php">CONTACT US</a>
-							</div>
-							<div class="clearfix"></div>
-							<span class="nav_menu_r"></span>
-							<ul class="nav_menu">
-								<li><a href="/">HOME</a></li>
-								<li><a href="/learn_more.php">LEARN MORE</a></li>
-								<li><a href="/coverage.php">COVERAGE</a></li>
-								<li><a href="/pricing.php">PRICING</a></li>
-								<li class="last"><a href="/get_started.php">GET STARTED</a></li>
-							</ul>
-							<span class="nav_menu_l"></span>
-						</div>
-					</div>
-				</div>
-			</div>
-		</header>
+		<?php include 'header.php'; ?>
 		<section>
 			<article>
 				<div class="container">
@@ -206,34 +179,6 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
 				</div>
 			</article>
 		</section>
-		<footer>
-			<div class="footer_content">
-				<div class="container">
-					<div class="row-fluid span12">
-						<ul class="footer_nav_l">
-							   	<li><a href="/">HOME</a></li>
-								<li><a href="/learn_more.php">LEARN MORE</a></li>
-								<li><a href="/coverage.php">COVERAGE</a></li>
-								<li><a href="/pricing.php">PRICING</a></li>
-								<li><a href="/get_started.php">GET STARTED</a></li>
-								<li><a href="/reseller.php">RESELLER</a></li>
-								<li><a href="http://signup.towncenter.com">SIGN-IN</a></li>
-						</ul>
-						<ul class="footer_nav_r">
-							<li><a href="http://www.facebook.com/pages/Town-Center/341595109292041"><img src="images/facebook_sml.png" alt=""/></a></li>
-							<li><a href="https://twitter.com/thetowncenter"><img src="images/twitter_sml.png" alt=""/></a></li>
-							<li><a href="#"><img src="images/link_in.png" alt=""/></a></li>
-						</ul>
-					</div>
-				</div>
-			</div>
-			<div class="footer_sub_content">
-				<div class="container">
-					<div class="row-fluid span12">
-						<p class="footer_mark">© 2012 TownCenter  All Rights Reserved. &nbsp;&nbsp;Privacy | Terms</p>
-					</div>
-				</div>
-			</div>
-		</footer>
+		<?php include 'footer.php'; ?>
 	</body>
 </html>
