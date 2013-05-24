@@ -12,40 +12,32 @@
 		<script type="text/javascript" src="js/jquery.jcarousel.min.js"></script>
 		<link href="http://vjs.zencdn.net/c/video-js.css" rel="stylesheet">
 		<script src="http://vjs.zencdn.net/c/video.js"></script>
-		<script src="js/videosub-0.9.9.js"></script>
 		<link rel="stylesheet" type="text/css" href="css/skin.css" />
 		<script type="text/javascript">
+function doOnClick() {
+  if (window.isPlaying == true) {
+    _V_('tcvideo').stop();
+    window.isPlaying = false;
+    registerHooks();
+  } else {
+    _V_('tcvideo').play();
+    window.isPlaying = true;
+    registerHooks();
+  }
+}
+function registerHooks() {
+  $('#tcvideo').click(doOnClick);
+  $('#tcvideo_html5_api').click(doOnClick);
+}
+
 			jQuery(document).ready(function() {
 			    jQuery('#mycarousel').jcarousel({
 			    	wrap: 'circular'
 			    });
-				if($('.video-js').height()==$(window).height()){
-					$('.vjs-default-skin .vjs-controls').css('bottom','0');
-				}
-				jQuery(window).resize(function() {
-					if($('.video-js').height()==$(window).height()){
-						$('.vjs-default-skin .vjs-controls').css('bottom','0');
-					}
-				});
+                            window.isPlaying = false;
+                            registerHooks();
 			});
 		</script>	
-        
-                <!-- Begin Google Analytics -->
-        <script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-37561318-1']);
-  _gaq.push(['_setDomainName', 'towncenter.com']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
-        <!-- End Google Analytics --><!-- Start Visual Website Optimizer Asynchronous Code -->
 <script type='text/javascript'>
 var _vwo_code=(function(){
 var account_id=25492,
@@ -56,35 +48,16 @@ use_existing_jquery=false,
 f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
 </script>
 <!-- End Visual Website Optimizer Asynchronous Code -->
-
-	<style>
-		.video-js {
-			background-color: none;
-		    background-image: url(/movie.png);
-		    background-size:890px 501px;
-			margin-left:33px;
-		}
-		#tcvideo {
-			cursor: pointer;
-		}
-		.vjs-big-play-button{
-			display:none !important;
-		}
-		.vjs-default-skin .vjs-controls{
-			visibility:visible !important;
-			opacity:1 !important;
-			bottom:-38px;
-		}
-		.banner{
-			background:url(images/video_background.png) no-repeat;
-			width:960px;
-			height:600px;
-			margin-left:-5px;
-			padding-top:22px;
-			margin-bottom:-25px;
-		}
-	</style>
-
+<style>
+.video-js {
+	background-color: none;
+        background-image: url(/movie.png);
+        background-size:954px 501px;
+}
+#tcvideo {
+	cursor: pointer;
+}
+</style>
 	</head>
 
 	<body>
@@ -94,12 +67,12 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
 				<div class="container">
 					<div class="row-fluid span12">
 						<div class="banner">
-							  <video id="tcvideo" class="video-js vjs-default-skin" preload="none" width="890" height="501" poster="/movie.png" data-setup="{}" controls>
+							  <video id="tcvideo" class="video-js vjs-default-skin" preload="none" width="954" height="501" poster="/movie.png" data-setup="{}">
 							    <source src="movie.mp4" type='video/mp4' />
 							    <source src="movie.webm" type='video/webm' />
 							    <source src="movie.ogv" type='video/ogg' />
-								<!-- <track src="movie.srt" kind="subtitle" srclang="en-US" label="English" /> -->
-							  </video>
+<!--							    <track src="movie.srt" kind="subtitle" srclang="en-US" label="English" />
+-->							  </video>
 						</div>
 					</div>
 				</div>
@@ -115,17 +88,19 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
 								<img src="images/big_logo.png" alt=""/>
 								<p class="con_txt">Town Center lets you manage, update and promote your Business Listing in every online database such as; Google+ Local, Facebook, Twitter, Yelp, Foursquare and countless more.</p>
 								<div class="b25"></div>
-								<p class="con_txt">Town Center helps you appear in the most possible local searches  making sure your listings are present with the correct information. It automatically adds missing listings, and it updates critical fields like name, address, phone number, and categories across our network. Change your information anytime and it will update everywhere.</p>
+								<p class="con_txt">Town Center helps you appear in the most possible local searches with Guaranteed Presence making sure your listings are present with the correct information. It automatically adds missing listings, and it updates critical fields like name, address, phone number, and categories across our network. Change your information anytime and it will update everywhere.</p>
 							</div>
 						</div>
 						<div class="span4">
 							<div class="content_action">
 								<form class="action_sub" action="" method="post">
-									<p class="action_title mb_20"><b>Start here!</b> Check to see how your business appears across the internet.</p>
-									<p class="action_txt mb_20">Enter you business information below.</p>
-									<input type="text" id="bussiness_name" name="bussiness_name" placeholder="Business name" class="action_input_1 mb_12"/>
-									<input type="text" id="bussiness_number" name="bussiness_number" placeholder="Business telephone number" class="action_input_1 mb_12"/>
-									<input type="text" id="zip_code" name="zip_code" placeholder="Zip Code" class="action_input_1 mb_20"/>
+									<p class="action_title"><b>Start here!</b> Check to see how your business appears across the internet.</p>
+									<p class="action_txt">Enter you business information below.</p>
+									<input type="text" id="bussiness_name" name="bussiness_name" placeholder="Business name" class="action_input_1"/>
+									<input type="text" id="bussiness_number" name="bussiness_number" placeholder="Business telephone number" class="action_input_1"/>
+									<input type="text" id="bussiness_address" name="bussiness_address" placeholder="Business address" class="action_input_1"/>
+									<input type="text" id="city" name="city" placeholder="City" class="action_input_2"/>
+									<input type="text" id="zip" name="zip" placeholder="Zip" class="action_input_3"/>
 									<input type="submit" class="scan_now" value="submit"/>
 								</form>
 							</div>
@@ -179,6 +154,6 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
 				</div>
 			</article>
 		</section>
-		<?php include 'footer.php'; ?>
+<?php include 'footer.php'; ?>
 	</body>
 </html>
