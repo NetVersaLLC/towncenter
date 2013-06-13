@@ -42,8 +42,8 @@
 										<!--<p class="pricing_list_txt"><b>New Feature Coming Soon!</b></p>
 										<div class="pricing_feature">
 											<img src="images/pricing_feature.png" alt="" width="31" height="31"/>
-											<p class="pricing_list_txt">Add Coupons to make your ad stand out!</p>-->
-										</div>
+											<p class="pricing_list_txt">Add Coupons to make your ad stand out!</p>
+										</div>-->
 									</li>
 								<li class="pring_start">
 								  <p class="pricing_list_center">Use <strong>Town Center</strong> to control your bussiness visibility online. Satisfaction Guaranteed!</strong></p>
@@ -59,8 +59,8 @@
 										<!--<p class="pricing_list_txt"><b>New Feature Coming Soon!</b></p>
 										<div class="pricing_feature">
 											<img src="images/pricing_feature.png" alt="" width="31" height="31"/>
-											<p class="pricing_list_txt">Manage from anywhere, mobile app.</p>-->
-										</div>
+											<p class="pricing_list_txt">Manage from anywhere, mobile app.</p>
+										</div>-->
 									</li>
 								</ul>
 								<img src="images/spacer.png" alt="" width="923" height="43" class="sub_spacer"/>
