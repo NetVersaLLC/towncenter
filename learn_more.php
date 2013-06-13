@@ -43,7 +43,7 @@
 								<img src="images/spacer.png" alt="" width="923" height="43" class="sub_spacer"/>
 							  <div class="learn_more_power"></div>
 								<p class="sub_main_title">Nobody Beats Town Center.</p>
-								<p class="sub_txt">Our network of sites is the largest, and we're committed to retaining that distinction. With over 50 databases, search engines and indexes, we're substantially more comprehensive than our competition. And at just $29 per month, we're less expensive, too. While our coverage will continue to expand, month after month - our prices won't. </p>
+								<p class="sub_txt">Our network of sites is the largest, and we're committed to retaining that distinction. With over 50 databases, search engines and indexes, we're substantially more comprehensive than our competition. And at just $39 per month, we're less expensive, too. While our coverage will continue to expand, month after month - our prices won't. </p>
 						
 								<img src="images/spacer.png" alt="" width="923" height="43" class="sub_spacer"/>
 							  <div class="learn_more_budget"></div>
