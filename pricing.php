@@ -51,7 +51,7 @@
 									<p class="pricing_list_txt">
 									<b>One-time setup $299 </b></p>
 										<p class="pricing_list_txt">
-											$29 per month
+											$39 per month
 										</p>
 									<img src="images/pricing_start.png" alt="" width="280" height="58"/>
 								  </li>
