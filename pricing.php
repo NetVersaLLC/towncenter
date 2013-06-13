@@ -36,45 +36,41 @@
 						<div class="sub_main_container">
 							<div class="pricing_background"></div>
 							<div class="sub_main_content">
-								<ul class="pricing_list">
+							  <ul class="pricing_list">
 									<li>
 										<img src="images/starting_easy.png" alt="" width="280" height="269" class="pricing_list_img"/>
-										<p class="pricing_list_txt"><b>New Feature Coming Soon!</b></p>
+										<!--<p class="pricing_list_txt"><b>New Feature Coming Soon!</b></p>
 										<div class="pricing_feature">
 											<img src="images/pricing_feature.png" alt="" width="31" height="31"/>
-											<p class="pricing_list_txt">Add Coupons to make your ad stand out!</p>
+											<p class="pricing_list_txt">Add Coupons to make your ad stand out!</p>-->
 										</div>
 									</li>
-									<li class="pring_start">
-										<p class="pricing_list_center"><strong>Join</strong> Town Center’s robust newtork and start taking control of your business-listing <strong>TODAY.</strong></p>
+								<li class="pring_start">
+								  <p class="pricing_list_center">Use <strong>Town Center</strong> to control your bussiness visibility online. Satisfaction Guaranteed!</strong></p>
+									<p class="pricing_list_txt">
+									<b>One-time setup $299 </b></p>
 										<p class="pricing_list_txt">
-											<b>Enrollment $299 (1 Year)</b>
 											$29 per month
 										</p>
-										<img src="images/pricing_start.png" alt="" width="280" height="58"/>
-									</li>
+									<img src="images/pricing_start.png" alt="" width="280" height="58"/>
+								  </li>
 									<li>
 										<img src="images/pricing_sign.png" alt="" width="280" height="269"/>
-										<p class="pricing_list_txt"><b>New Feature Coming Soon!</b></p>
+										<!--<p class="pricing_list_txt"><b>New Feature Coming Soon!</b></p>
 										<div class="pricing_feature">
 											<img src="images/pricing_feature.png" alt="" width="31" height="31"/>
-											<p class="pricing_list_txt">Manage from anywhere, mobile app.</p>
+											<p class="pricing_list_txt">Manage from anywhere, mobile app.</p>-->
 										</div>
 									</li>
 								</ul>
 								<img src="images/spacer.png" alt="" width="923" height="43" class="sub_spacer"/>
-								<p class="sub_main_title">Join Towncenter’s robust newtork coverage.</p>
-								<p class="coverage_sub_txt">TownCenter.com is a directory listing and management software that allows you to list and claim your business in over 50 internet directories, like Google, Bing, Yahoo, Yelp, etc., through one single entry.  Changes and updates to your 50+ listings can also be made from one single login location. You enter your business information in one location and it lists your business in over 50 directories, while continuing to add new directories every month.  TownCenter.com also allows you to make changes to your listing information for all 50+ directories from one single login location.  Because TownCenter.com also claims your listings for you, it allows you to take control over how the search engines index you and prevents others from claiming your listing and controlling them.  Below you can see the Towncenter network that is at constant growth and price never changes!</p>
+							  <p class="sub_main_title">What About The Next Big Thing?</p>
+								<p class="coverage_sub_txt">As the Internet continues to grow, often in unexpected directions, maintaining your company's visibility can be daunting - nobody can see the future. In the late 1900s, first generation search engines like Webcrawler, Excite and Altavista dominated the web search industry - Google later eclipsed them, and they faded into relative obscurity. Not long ago, Facebook was a small, exclusive social network, used only by students at a handful of elite private universities. Today, a solid presence on Facebook has proven indispensable to any company serious about its online presence. Tomorrow? Nobody can say with certainty what the 'next big thing' will be, or when it will emerge to capture the majority of internet attention. But one thing is certain - when it does, we'll be right there, ensuring that our clients maintain the advantage they've come to expect from our service. The 'next big thing' will be included when the time comes, as well the one after that, and the one after that.</p>
+                                	<img src="images/spacer.png" alt="" width="923" height="43" class="sub_spacer"/>
+                                    <p class="sub_main_title">Money-back Guarantee</p>
+								<p class="coverage_sub_txt">A money-back guarantee takes the risk out of trying our service - we're so sure you'll be happy with Town Center, that if for any reason you're not satisfied, you can opt out, and receive a full refund. No questions asked.</p>
 							</div>
 						</div>
-					</div>
-				</div>
-			</article>
-			<article>
-				<div class="container">
-					<div class="row-fluid span12 mb_20">
-						<div class="sub_price_left_blank_div span6"></div>
-						<div class="sub_price_right_blank_div span6"></div>
 					</div>
 				</div>
 			</article>
