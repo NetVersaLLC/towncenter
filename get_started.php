@@ -40,23 +40,23 @@
 									forward sign-up process, and an even eaiser system of <br/>
 									managing your business information.
 								</p>
-								<div class="sub_blank_div"></div>
+								<!--<div class="sub_blank_div"></div>-->
 								<p class="sub_main_title">1. Sign-up</p>
 								<p class="sub_txt">Sign Up. Enter your email address and create a password. Hit the Sign Up button at the bottom of the page and you are in. simple as that.</p>
 								<img src="images/spacer.png" alt="" width="923" height="43" class="sub_spacer"/>
-								<div class="sub_blank_div"></div>
+								<!--<div class="sub_blank_div"></div>-->
 								<p class="sub_main_title">2. Subscribe.</p>
 								<p class="sub_txt">Fill out your billing information. Include your name, phone number, and your address. Town Center accepts all Visa, Master Card, American Express, and Discover cards. There is also a box for a coupon code. use this box for a discount on your package. Once you have all of your information input, hit subscribe.</p>
 								<img src="images/spacer.png" alt="" width="923" height="43" class="sub_spacer"/>
-								<div class="sub_blank_div"></div>
+								<!--<div class="sub_blank_div"></div>-->
 								<p class="sub_main_title">3. Manage Your Business Information.</p>
 								<p class="sub_txt">Manage Your Business Information. Once you have finished the subscription page, you will be taken to the editing page. This is where you upload all of your business information. Include your company name, location, phone number, address, and website.  You can include payment methods, business hours, a description of what your business does. You can even upload pictures for your business. all from one page.package. Once you have all of your information input, hit subscribe.</p>
 								<img src="images/spacer.png" alt="" width="923" height="43" class="sub_spacer"/>
-								<div class="sub_blank_div"></div>
+								<!--<div class="sub_blank_div"></div>-->
 								<p class="sub_main_title">4. Download.</p>
 								<p class="sub_txt">Once you have uploaded your business information, you will be taken to the final page in the set-up process. At the bottom of the page is a button labeled "download client". Click on this button and follow the set-up prompts. Once the program has finished downloading, hit finish. you now have Town Center Client installed on your computer. This allows you to access your Town Center account at any time.</p>
 								<img src="images/spacer.png" alt="" width="923" height="43" class="sub_spacer"/>
-								<div class="sub_blank_div"></div>
+								<!--<div class="sub_blank_div"></div>-->
 								<p class="sub_main_title">5. Sync.</p>
 								<p class="sub_txt mt_60">The final step in the set-up process. Return to the Town Center business page. You will see a button labeled "sync now". Simply click that button, and your business information is synced accross 50 different websites. All you have to do is sit back and let Town Center do the rest. It's fast. It's effective. It's reliable. It's Town Center.</p>
 							</div>
