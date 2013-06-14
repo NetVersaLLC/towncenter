@@ -109,13 +109,13 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
 					<div class="row-fluid span12">
 						<div class="span8">
 							<div class="content_1">
-								<p class="title_txt">Keep all your Business Listings up-to-date<br/>from one location.</p>
+								<p class="title_txt">What is Town Center?</p>
 							</div>
 							<div class="content_2">
 								<img src="images/big_logo.png" alt=""/>
 								<p class="con_txt">Town Center lets you manage, update and promote your Business Listing in every online database such as; Google+ Local, Facebook, Twitter, Yelp, Foursquare and countless more.</p>
 								<div class="b25"></div>
-								<p class="con_txt">Town Center helps you appear in the most possible local searches  making sure your listings are present with the correct information. It automatically adds missing listings, and it updates critical fields like name, address, phone number, and categories across our network. Change your information anytime and it will update everywhere.</p>
+								<p class="con_txt">Simply put, it's a system designed to help your business thrive, by maximizing your online visibility. When people in your area search for a product or service you provide, Town Center allows you to easily help these potential customers find your company, along with the most current and complete information - Including directory info - your locations and how to contact you - as well as dynamic information, such as current specials and upcoming events, sales and promotions.</p>
 							</div>
 						</div>
 						<div class="span4">
