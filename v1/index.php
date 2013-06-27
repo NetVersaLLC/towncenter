@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<meta charset="utf-8">
-		<title>Town Center</title>
+		<title>TownCenter</title>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<meta name="description" content="">
 		<meta name="author" content="">
@@ -109,13 +109,13 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
 					<div class="row-fluid span12">
 						<div class="span8">
 							<div class="content_1">
-								<p class="title_txt">What is Town Center?</p>
+								<p class="title_txt">What is TownCenter?</p>
 							</div>
 							<div class="content_2">
 								<img src="images/big_logo.png" alt=""/>
-								<p class="con_txt">Town Center lets you manage, update and promote your Business Listing in every online database such as; Google+ Local, Facebook, Twitter, Yelp, Foursquare and countless more.</p>
+								<p class="con_txt">TownCenter lets you manage, update and promote your Business Listing in every online database such as; Google+ Local, Facebook, Twitter, Yelp, Foursquare and countless more.</p>
 								<div class="b25"></div>
-								<p class="con_txt">Simply put, it's a system designed to help your business thrive, by maximizing your online visibility. When people in your area search for a product or service you provide, Town Center allows you to easily help these potential customers find your company, along with the most current and complete information - Including directory info - your locations and how to contact you - as well as dynamic information, such as current specials and upcoming events, sales and promotions.</p>
+								<p class="con_txt">Simply put, it's a system designed to help your business thrive, by maximizing your online visibility. When people in your area search for a product or service you provide, TownCenter allows you to easily help these potential customers find your company, along with the most current and complete information - Including directory info - your locations and how to contact you - as well as dynamic information, such as current specials and upcoming events, sales and promotions.</p>
 							</div>
 						</div>
 						<div class="span4">
@@ -132,7 +132,7 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
 						</div>
 					</div>
 					<div class="row-fluid span12">
-						<p class="title_txt">Town Center Network</p>
+						<p class="title_txt">TownCenter Network</p>
 						<p class="con_txt">Our network consists of the top local search properties across platforms – online, mobile & navigation devices. These sites, including Yahoo!, MapQuest, Yelp and a host of other properties, get over 150,000,000 unique visitors every month in the US.</p>
 						<ul id="mycarousel" class="jcarousel-skin-tango">
 						    <li><a href="http://www.google.com" target="_blank"><img src="images/link_img_1.png" alt="" /></a></li>
@@ -167,10 +167,10 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
 							</div>
 							<div class="span4">
 								<div class="content_4">
-									<p class="con_title">Town Centers one-point control saves you hours.</p>
+									<p class="con_title">TownCenter's one-point control saves you hours.</p>
 									<p class="con_sub_txt">Setup takes just minutes and your listings will go live in no time!</p>
 									<p class="con_sub_txt">Communicate with the large crowd of sites through one simple database listing. </p>
-									<p class="con_sub_txt">Town Center will keep posted business information current on 45+ (growing quickly) of the most popularly used sites.</p>
+									<p class="con_sub_txt">TownCenter will keep posted business information current on 45+ (growing quickly) of the most popularly used sites.</p>
 									<a href="#" class="scan_now"></a>
 								</div>
 							</div>

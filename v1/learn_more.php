@@ -3,7 +3,7 @@
 <html lang="en">
 	<head>
 		<meta charset="utf-8">
-		<title>Town Center</title>
+		<title>TownCenter</title>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<meta name="description" content="">
 		<meta name="author" content="">
@@ -39,10 +39,10 @@
 								<div class="learn_more_title"></div>
 								<div class="learn_more_manage"></div>
 								<p class="sub_main_title">Visibility Optimization is Essential for Businesses of All Sizes</p>
-								<p class="sub_txt">You might be a one person, part-time business just getting started, or an established organization with dozens, hundreds or even thousands of employees. You might be growing fast, opening new locations each week, or simply holding your own in this rapidly changing new economy. You may have invested untold fortunes in cultivating your online presence, or you might not even have a website yet. No matter. Regardless of the your business size, type, or rate of growth - the benefits are clear. Greater online visibility translates to more clients, more sales, and higher profits. Even charitable and political organizations need to be easily locatable, in order to keep those donations and volunteers rolling in. Whatever sort of business you're doing, Town Center will help you to do more of it.</p>
+								<p class="sub_txt">You might be a one person, part-time business just getting started, or an established organization with dozens, hundreds or even thousands of employees. You might be growing fast, opening new locations each week, or simply holding your own in this rapidly changing new economy. You may have invested untold fortunes in cultivating your online presence, or you might not even have a website yet. No matter. Regardless of the your business size, type, or rate of growth - the benefits are clear. Greater online visibility translates to more clients, more sales, and higher profits. Even charitable and political organizations need to be easily locatable, in order to keep those donations and volunteers rolling in. Whatever sort of business you're doing, TownCenter will help you to do more of it.</p>
 								<img src="images/spacer.png" alt="" width="923" height="43" class="sub_spacer"/>
 							  <div class="learn_more_power"></div>
-								<p class="sub_main_title">Nobody Beats Town Center.</p>
+								<p class="sub_main_title">Nobody Beats TownCenter.</p>
 								<p class="sub_txt">Our network of sites is the largest, and we're committed to retaining that distinction. With over 50 databases, search engines and indexes, we're substantially more comprehensive than our competition. And at just $39 per month, we're less expensive, too. While our coverage will continue to expand, month after month - our prices won't. </p>
 						
 								<img src="images/spacer.png" alt="" width="923" height="43" class="sub_spacer"/>

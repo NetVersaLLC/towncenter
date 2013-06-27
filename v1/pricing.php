@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 	<head>
 		<meta charset="utf-8">
-		<title>Town Center</title>
+		<title>TownCenter</title>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<meta name="description" content="">
 		<meta name="author" content="">
@@ -47,7 +47,7 @@
 										</div>-->
 									</li>
 								<li class="pring_start">
-								  <p class="pricing_list_center">Use <strong>Town Center</strong> to control your bussiness visibility online. Satisfaction Guaranteed!</strong></p>
+								  <p class="pricing_list_center">Use <strong>TownCenter</strong> to control your bussiness visibility online. Satisfaction Guaranteed!</strong></p>
 									<p class="pricing_list_txt">
 									<b>One-time setup $299 </b></p>
 										<p class="pricing_list_txt">
@@ -69,7 +69,7 @@
 								<p class="coverage_sub_txt">As the Internet continues to grow, often in unexpected directions, maintaining your company's visibility can be daunting - nobody can see the future. In the late 1900s, first generation search engines like Webcrawler, Excite and Altavista dominated the web search industry - Google later eclipsed them, and they faded into relative obscurity. Not long ago, Facebook was a small, exclusive social network, used only by students at a handful of elite private universities. Today, a solid presence on Facebook has proven indispensable to any company serious about its online presence. Tomorrow? Nobody can say with certainty what the 'next big thing' will be, or when it will emerge to capture the majority of internet attention. But one thing is certain - when it does, we'll be right there, ensuring that our clients maintain the advantage they've come to expect from our service. The 'next big thing' will be included when the time comes, as well the one after that, and the one after that.</p>
                                 	<img src="images/spacer.png" alt="" width="923" height="43" class="sub_spacer"/>
                                     <p class="sub_main_title">Money-back Guarantee</p>
-								<p class="coverage_sub_txt">A money-back guarantee takes the risk out of trying our service - we're so sure you'll be happy with Town Center, that if for any reason you're not satisfied, you can opt out, and receive a full refund. No questions asked.</p>
+								<p class="coverage_sub_txt">A money-back guarantee takes the risk out of trying our service - we're so sure you'll be happy with TownCenter, that if for any reason you're not satisfied, you can opt out, and receive a full refund. No questions asked.</p>
 							</div>
 						</div>
 					</div>

@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 	<head>
 		<meta charset="utf-8">
-		<title>Town Center</title>
+		<title>TownCenter</title>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<meta name="description" content="">
 		<meta name="author" content="">
@@ -39,7 +39,7 @@
 						<div class="des_div">
 							<div class="des_l">
 								<p class="des_txt">Don&acute;t worry, just sit back and relax.</p>
-								<p class="des_txt">Let Town Center do the work for you.</p>
+								<p class="des_txt">Let TownCenter do the work for you.</p>
 							</div>
 							<div class="des_r">
 								<p class="des_sub_txt">Increase your visibility</p>
@@ -83,10 +83,10 @@
 							</div>
 							<div class="span4">
 								<div class="content_4">
-									<p class="con_title">Town Centers one-point control saves you hours.</p>
+									<p class="con_title">TownCenters one-point control saves you hours.</p>
 									<p class="con_sub_txt">Setup takes just minutes and your listings will go live in no time!</p>
 									<p class="con_sub_txt">Communicate with the large crowd of sites through one simple database listing. </p>
-									<p class="con_sub_txt">Town Center will keep posted business information current on 45+ (growing quickly) of the most popularly used sites.</p>
+									<p class="con_sub_txt">TownCenter will keep posted business information current on 45+ (growing quickly) of the most popularly used sites.</p>
 									<a href="#" class="scan_now"></a>
 								</div>
 							</div>

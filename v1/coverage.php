@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 	<head>
 		<meta charset="utf-8">
-		<title>Town Center</title>
+		<title>TownCenter</title>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<meta name="description" content="">
 		<meta name="author" content="">
@@ -35,10 +35,10 @@
 					<div class="row-fluid span12">
 						<div class="sub_main_container">
 							
-								<p class="sub_main_title">Join Towncenter&acute;s robust newtork coverage.</p>
-								<p class="coverage_sub_txt">TownCenter.com is a directory listing and management software that allows you to list and claim your business in over 50 internet directories, like Google, Bing, Yahoo, Yelp, etc., through one single entry.  Changes and updates to your 50+ listings can also be made from one single login location. You enter your business information in one location and it lists your business in over 50 directories, while continuing to add new directories every month.  TownCenter.com also allows you to make changes to your listing information for all 50+ directories from one single login location.  Because TownCenter.com also claims your listings for you, it allows you to take control over how the search engines index you and prevents others from claiming your listing and controlling them.  Below you can see the Towncenter network that is at constant growth and price never changes!</p>
+								<p class="sub_main_title">Join TownCenter&acute;s robust newtork coverage.</p>
+								<p class="coverage_sub_txt">TownCenter.com is a directory listing and management software that allows you to list and claim your business in over 50 internet directories, like Google, Bing, Yahoo, Yelp, etc., through one single entry.  Changes and updates to your 50+ listings can also be made from one single login location. You enter your business information in one location and it lists your business in over 50 directories, while continuing to add new directories every month.  TownCenter.com also allows you to make changes to your listing information for all 50+ directories from one single login location.  Because TownCenter.com also claims your listings for you, it allows you to take control over how the search engines index you and prevents others from claiming your listing and controlling them.  Below you can see the TownCenter network that is at constant growth and price never changes!</p>
 								<img src="images/spacer.png" alt="" width="923" height="43" class="sub_spacer"/>
-								<p class="sub_main_title">The Town Center Network</p>
+								<p class="sub_main_title">The TownCenter Network</p>
 								<p class="coverage_sub_txt">Our network consists of the top local search properties across platforms – online, mobile & navigation devices. These sites, including Yahoo!, MapQuest, Yelp and a host of other properties, get over 150,000,000 unique visitors every month in the US.</p>
 								<ul class="overage_list">
 									<li>Angies List</li>

@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 	<head>
 		<meta charset="utf-8">
-		<title>Town Center</title>
+		<title>TownCenter</title>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<meta name="description" content="">
 		<meta name="author" content="">
@@ -72,11 +72,11 @@
 								<img src="images/spacer.png" alt="" width="923" height="43" class="sub_spacer"/>
 								<img src="images/reseller_check.png" alt="" width="46" height="46" class="reseller_check"/>
 								<p class="sub_main_title">After Signing up and getting approved<br/> you can start selling to your clients instantly!</p>
-								<p class="coverage_sub_txt">Town Center resellers program is design for simplicity to help you manage your clients online local business listings.  You can add pictures create or change business descriptions, add coupons to listings all from your companies admin panel of TownCenter.</p>								
-								<p class="coverage_sub_txt">We'd like to take a moment and invite you to become part of the Towncenter reseller family.  We offer a turnkey solution to local listing management for your clients.  Don't hesitate to get in touch with a TownCenter account representative. Don't miss the chance and sign up as a new reseller using the TownCenter reseller sign up.  Once part of the TownCenter reseller program.  We will use your logo and build you a custom installer so you continue to brand your company to your clients!</p>								
+								<p class="coverage_sub_txt">TownCenter resellers program is design for simplicity to help you manage your clients online local business listings.  You can add pictures create or change business descriptions, add coupons to listings all from your companies admin panel of TownCenter.</p>								
+								<p class="coverage_sub_txt">We'd like to take a moment and invite you to become part of the TownCenter reseller family.  We offer a turnkey solution to local listing management for your clients.  Don't hesitate to get in touch with a TownCenter account representative. Don't miss the chance and sign up as a new reseller using the TownCenter reseller sign up.  Once part of the TownCenter reseller program.  We will use your logo and build you a custom installer so you continue to brand your company to your clients!</p>								
 								<p class="coverage_sub_txt">Managing all your clients from one central location has never been easier.  You will have the ability to syndicate your clients business listing across hundreds of sites.</p>								
 								<img src="images/spacer.png" alt="" width="923" height="43" class="sub_spacer"/>
-								<p class="sub_main_title">Town Center Network</p>
+								<p class="sub_main_title">TownCenter Network</p>
 								<p class="coverage_sub_txt">Our network consists of the top local search properties across platforms – online, mobile & navigation devices. These sites, including Yahoo!, MapQuest, Yelp and a host of other properties, get over 150,000,000 unique visitors every month in the US.</p>
 								<ul id="mycarousel" class="jcarousel-skin-tango">
 								    <li><a href="http://www.google.com" target="_blank"><img src="images/link_img_1.png" alt="" /></a></li>

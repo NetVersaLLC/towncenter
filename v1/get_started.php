@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 	<head>
 		<meta charset="utf-8">
-		<title>Town Center</title>
+		<title>TownCenter</title>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<meta name="description" content="">
 		<meta name="author" content="">
@@ -36,7 +36,7 @@
 						<div class="sub_main_container">
 							<div class="started_background"></div>
 							<div class="sub_main_content">
-								<p class="sub_main_title">Town Center offers our clients a very simple, straight <br/>
+								<p class="sub_main_title">TownCenter offers our clients a very simple, straight <br/>
 									forward sign-up process, and an even eaiser system of <br/>
 									managing your business information.
 								</p>
@@ -46,7 +46,7 @@
 								<img src="images/spacer.png" alt="" width="923" height="43" class="sub_spacer"/>
 								<!--<div class="sub_blank_div"></div>-->
 								<p class="sub_main_title">2. Subscribe.</p>
-								<p class="sub_txt">Fill out your billing information. Include your name, phone number, and your address. Town Center accepts all Visa, Master Card, American Express, and Discover cards. There is also a box for a coupon code. use this box for a discount on your package. Once you have all of your information input, hit subscribe.</p>
+								<p class="sub_txt">Fill out your billing information. Include your name, phone number, and your address. TownCenter accepts all Visa, Master Card, American Express, and Discover cards. There is also a box for a coupon code. use this box for a discount on your package. Once you have all of your information input, hit subscribe.</p>
 								<img src="images/spacer.png" alt="" width="923" height="43" class="sub_spacer"/>
 								<!--<div class="sub_blank_div"></div>-->
 								<p class="sub_main_title">3. Manage Your Business Information.</p>
@@ -54,11 +54,11 @@
 								<img src="images/spacer.png" alt="" width="923" height="43" class="sub_spacer"/>
 								<!--<div class="sub_blank_div"></div>-->
 								<p class="sub_main_title">4. Download.</p>
-								<p class="sub_txt">Once you have uploaded your business information, you will be taken to the final page in the set-up process. At the bottom of the page is a button labeled "download client". Click on this button and follow the set-up prompts. Once the program has finished downloading, hit finish. you now have Town Center Client installed on your computer. This allows you to access your Town Center account at any time.</p>
+								<p class="sub_txt">Once you have uploaded your business information, you will be taken to the final page in the set-up process. At the bottom of the page is a button labeled "download client". Click on this button and follow the set-up prompts. Once the program has finished downloading, hit finish. you now have TownCenter Client installed on your computer. This allows you to access your TownCenter account at any time.</p>
 								<img src="images/spacer.png" alt="" width="923" height="43" class="sub_spacer"/>
 								<!--<div class="sub_blank_div"></div>-->
 								<p class="sub_main_title">5. Sync.</p>
-								<p class="sub_txt mt_60">The final step in the set-up process. Return to the Town Center business page. You will see a button labeled "sync now". Simply click that button, and your business information is synced accross 50 different websites. All you have to do is sit back and let Town Center do the rest. It's fast. It's effective. It's reliable. It's Town Center.</p>
+								<p class="sub_txt mt_60">The final step in the set-up process. Return to the TownCenter business page. You will see a button labeled "sync now". Simply click that button, and your business information is synced accross 50 different websites. All you have to do is sit back and let TownCenter do the rest. It's fast. It's effective. It's reliable. It's TownCenter.</p>
 							</div>
 						</div>
 					</div>
