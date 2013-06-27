@@ -47,6 +47,15 @@ video {
 	width: 345px;
 }
 
+.scan_now{
+	background: url("../images/scan_now.png") no-repeat;
+    float: right;
+    height: 31px;
+    width: 151px;
+	margin:5px 0 0;
+	border:none;
+	cursor:pointer;
+}
 
 /*sub pages css */
 

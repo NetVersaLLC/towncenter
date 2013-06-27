@@ -116,10 +116,13 @@
 				<div class="starthereslogan">Check to see how your business appears across the internet.</div>
 				<div class="starthereslogansub">Enter your business information below.</div>
 				<div class="form">
-					<input type="text" name="name" value="" placeholder="Business Name" />
-					<input type="text" name="name" value="" placeholder="Business Telephone no" />
-					<input type="text" name="name" value="" placeholder="Zip Code" />
-					<center><img src="images/scan_now.png"></center>
+					<form class="action_sub" action="https://sync.fastrank.net/scanner/start" method="post">
+							<input type="text" id="bussiness_name" name="name" placeholder="Business name" class="action_input_1"/>
+							<input type="text" id="bussiness_number" name="phone" placeholder="Business telephone number" class="action_input_1"/>
+							<input type="text" id="zip" name="zip" placeholder="Zip" class="action_input_1"/>
+							<input type="hidden" id="package_id" name="package_id" value="10" />
+							<input type="submit" class="scan_now" value="" />
+					</form>
 				</div>
 			</div>
 		  </div>
