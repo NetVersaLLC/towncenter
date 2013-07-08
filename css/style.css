@@ -49,8 +49,7 @@ video {
 
 .scan_now{
 	background: url("../images/scan_now.png") no-repeat;
-    float: right;
-    height: 31px;
+    height: 45px;
     width: 151px;
 	margin:5px 0 0;
 	border:none;
