@@ -41,7 +41,19 @@ p { margin:0; padding:0 0 15px 0; }
 #headerbackground { width:100%; }
 .headerimg { background:url(../images/header_bg.png) left top repeat-x transparent; height:300px; }
 
-.videos { position:absolute;margin-left:532px;margin-top:65px; }
+.videos { 
+
+	border-radius: 8px;
+
+	background-image: -o-linear-gradient(-90deg, #272227 96%, #000000 100%);
+	background-image: -moz-linear-gradient(-90deg, #272227 96%, #000000 100%);
+	background-image: -webkit-linear-gradient(-90deg, #272227 96%, #000000 100%);
+	background-image: -ms-linear-gradient(-90deg, #272227 96%, #000000 100%);
+	background-image: linear-gradient(-180deg, #272227 96%, #000000 100%);
+
+	border: 1px solid #979797;
+	position:absolute;margin-left:532px;margin-top:65px; padding: 0px 16px; }
+
 video {
 	height: 226px;
 	width: 345px;
