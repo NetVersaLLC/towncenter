@@ -49,12 +49,15 @@ video {
 
 .scan_now{
 	background: url("../images/scan_now.png") no-repeat;
-    float: right;
-    height: 31px;
-    width: 151px;
-	margin:5px 0 0;
-	border:none;
-	cursor:pointer;
+	float: right;
+	height: 55px;
+	width: 151px;
+	border: none;
+	cursor: pointer;
+	margin-top: 5px;
+	margin-right: 0;
+	margin-bottom: 0;
+	margin-left: 0;
 }
 
 /*sub pages css */
