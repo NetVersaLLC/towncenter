@@ -1,4 +1,5 @@
-<html>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<meta name="apple-mobile-web-app-capable" content="yes" />
@@ -9,6 +10,7 @@
 	<link rel="stylesheet" href="css/skin.css" type="text/css">
 	<link rel="stylesheet" href="css/bootstrap-responsive.css" type="text/css">
 	<link rel="stylesheet" type="text/css" href="css/elastislide.css" />
+	<script src="http://api.html5media.info/1.1.5/html5media.min.js"></script>
 	<script type="text/javascript" src="js/jquery-1.4.1.min.js"></script>
 	<!--[if IE]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
 	<script type="text/javascript"> 
@@ -88,10 +90,7 @@
 				<div class="monitor">
 					<img src="images/monitor.png">
 					<div class="videos">
-						<video width="320" height="240" controls>
-						  <source src="v1/movie.mp4" type="video/mp4">
-						  <source src="v1/movie.ogg" type="video/ogg">
-						</video>
+						<video src="http://fastrank.net/movie.mp4" width="320" height="240" controls></video>
 					</div>
 				</div>
 			</div>
@@ -121,7 +120,9 @@
 							<input type="text" id="bussiness_number" name="phone" placeholder="Business telephone number" class="action_input_1"/>
 							<input type="text" id="zip" name="zip" placeholder="Zip" class="action_input_1"/>
 							<input type="hidden" id="package_id" name="package_id" value="1" />
-							<input type="submit" class="scan_now" value="" />
+							<center>
+								<img src="images/scan_now.png">
+							</center>
 					</form>
 				</div>
 			</div>
