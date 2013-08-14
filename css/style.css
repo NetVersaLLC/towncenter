@@ -62,6 +62,33 @@ video {
 
 /*sub pages css */
 
+#singup { width:110%;}
+.centerboxsignup { float:left;font-size:18px;margin-top:100px;margin-right:10px; }
+
+.leftblueboxsignup { width:44%; float:left; background:#ffffff; margin-right:1%; padding-bottom:15px;}
+.leftblueboxsignup .signupbg { float:left; width:450px; }
+.leftblueboxsignup div{ position:absolute; width:32%; margin:28px 0px 0px 25px;}
+.leftblueboxsignup .title{ font-size:22px;color:#FFFFFF;font-weight:bold; }
+.leftblueboxsignup .rightsing { float:left;margin-left:191px;color:#017491;font-size:18px; text-align:center;width: 308px;}
+.leftblueboxsignup .rate { font-size:25px;color:#4c4c4c; }
+.leftblueboxsignup .rate1{ font-size:14px;color:#4c4c4c; }
+.leftblueboxsignup .righttext{ text-align:left;font-size:14px;color:#4c4c4c;margin-left:250px;margin-top:20px; }
+.leftblueboxsignup .text { margin-top:100px; width:30%; }
+.leftblueboxsignup .myform { margin-top:50px; width:100%; }
+.rightsing { float:right; }
+.leftblueboxsignup .PageTitlenoborder { font-style:italic;font-size:14px; white-space:nowrap; text-align:center; }
+
+.scan_now1{
+	background: url("../images/scaning.png") no-repeat;
+    height: 44px;
+    width: 126px;
+	margin:0px 0 0 -40px;;
+	border:none;
+	cursor:pointer;
+}
+.form1{ width:90%;margin:0px auto;}
+.form1 input[type="text"], .form1 input[type="password"] { border:1px solid #CCCCCC;width:85%;font-size:14px;padding:8px 2px;font-family:Arial, Helvetica, sans-serif;color:#999999;font-weight:normal; margin-bottom:10px; }
+
 .leftblueboxstrip { width:32%; float:left; background:#ffffff; margin-right:1%; padding-bottom:15px; }
 .leftblueboxstrip img { float:left; width:300px; }
 .leftblueboxstrip div{ position:absolute; width:270px; margin:25px 0px 0px 20px; }
@@ -240,6 +267,17 @@ nav ul li:hover a {color:#FFFFFF;}
 
 @media only screen and (max-width: 1024px) {
 	
+	#singup { width:100%; }
+	.centerboxsignup { float:left;font-size:18px;margin-top:100px;margin-right:10px; }
+	
+	.leftblueboxsignup { width:70%; float:left; background:#ffffff; margin-right:1%; padding-bottom:15px;}
+	.leftblueboxsignup .signupbg { float:left; width:100%; }
+	.leftblueboxsignup div{ position:absolute; width:40%; margin:28px 0px 0px 25px;}
+	.leftblueboxsignup .text { margin-top:100px; width:70%; }
+	.leftblueboxsignup .myform { margin-top:50px; width:200%; }
+	
+	.form1{ width:100%;margin:0px auto;}
+	
 	.leftblueboxstrip { width:50%; float:left; background:#ffffff; margin-right:1%; padding-bottom:15px; }
 	.rightblueboxstrip { width:50%; float:left; background:#ffffff; margin-right:1%; padding-bottom:15px; }
 	
@@ -301,12 +339,15 @@ nav ul li:hover a {color:#FFFFFF;}
 
 @media only screen and (max-width: 900px) {
 
-.videos { position:absolute;margin-left:445px;margin-top:80px; }
-video {
-	height: 190px;
-	width: 298px;
-	-webkit-transform-style: preserve-3d;
-}
+	.videos { position:absolute;margin-left:445px;margin-top:80px; }
+	video {
+		height: 190px;
+		width: 298px;
+		-webkit-transform-style: preserve-3d;
+	}
+	.leftblueboxsignup { width:90%; }
+	.leftblueboxsignup .rightsing {margin-left: 380px;width: 210px;  }
+	.leftblueboxsignup div { width:40%; } 
 }
 
 
@@ -333,7 +374,7 @@ video {
 }
 
 @media only screen and (max-width: 640px) {
-
+.leftblueboxsignup .rightsing {margin-left: 280px;width: 210px;  }
 .videos { position:absolute;margin-left:165px;margin-top:146px; }
 video {
 	height: 161px;
@@ -454,7 +495,9 @@ nav { display:none; }
 }
 
 @media only screen and (max-width: 600px) {
+.leftblueboxsignup .rightsing {margin-left: 205px;width: 210px;  }
 
+.rightsing1 { display:none; }
 .videos { position:absolute;margin-left:103px;margin-top:146px; }
 video {
 	height: 161px;
@@ -483,6 +526,22 @@ video {
 
 @media only screen and (max-width: 480px) {
 
+	.leftblueboxsignup .signupbg { width:110%; }
+	.leftblueboxsignup .title{ font-size:16px;}
+	.leftblueboxsignup .rightsing { font-size: 11px; margin-left: 89px;}
+	.leftblueboxsignup .rate { font-size:25px;color:#4c4c4c; }
+	.leftblueboxsignup .rate1{ font-size:14px;color:#4c4c4c; }
+	.leftblueboxsignup .righttext{ font-size: 10px; margin-left: 150px; }
+	.leftblueboxsignup .text { width:76%; }
+	.leftblueboxsignup .myform { margin-top:50px; width:100%; }
+	.rightsing { float:right; }
+	.centerboxsignup { display:none;}
+	.leftblueboxsignup div { width:69%; }
+	.leftblueboxsignup .PageTitlenoborder {  white-space:normal;}
+
+	
+	.rightsing1 { display:none; }
+	
 	.videos { position:absolute;margin-left:40px;margin-top:30px; }
 	video {
 		height: 133px;
